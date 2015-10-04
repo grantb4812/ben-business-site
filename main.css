@@ -1,0 +1,43 @@
+#nav-color {
+	border-bottom: none;
+	height: 5em;
+	background-color: #16174f;
+	color: white;
+}
+
+.jumbotron {
+	background-color: #16174f;
+}
+
+footer {
+	background-color: #16174f;
+	color: white;
+}
+
+button {
+	color: #e3e3e3;
+}
+
+.item {
+	width: 100%;
+}
+
+.item img {
+	margin: 0 auto;
+}
+
+.services {
+	padding-top: 2em;
+}
+
+.service-content {
+	padding-bottom: 10em;
+}
+
+.service-hr hr {
+	border: 1px solid #16174f;
+}
+
+.contact-hr hr {
+	border: 1px solid white;
+}
