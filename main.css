@@ -1,16 +1,33 @@
 #nav-color {
 	border-bottom: none;
-	height: 5em;
+	height: 8em;
 	background-color: #16174f;
 	color: white;
 }
 
+.dolan {
+	font-size: 4em;
+}
+
 .jumbotron {
-	background-color: #16174f;
+	padding-bottom: 0;
+}
+
+.carousel .item {
+	width: 100%;
+}
+
+.carousel .item img {
+	width: 100%;
+}
+
+.menu {
+	margin-top: 1.75em;
 }
 
 footer {
 	background-color: #16174f;
+	padding-bottom: 10em;
 	color: white;
 }
 
@@ -28,16 +45,38 @@ button {
 
 .services {
 	padding-top: 2em;
+	padding-bottom: 5em;
 }
 
 .service-content {
-	padding-bottom: 10em;
+	padding-bottom: 5em;
 }
 
 .service-hr hr {
 	border: 1px solid #16174f;
+	
+}
+
+.service-hr {
+	margin-top: 1.25em;
+}
+
+.contact-row {
+	padding-top: 5em;
 }
 
 .contact-hr hr {
 	border: 1px solid white;
+}
+
+.contact-hr {
+	margin-top: 1.25em;
+}
+
+.content-headline {
+	color: #16174f;
+}
+
+.testimony-row {
+	padding-bottom: 5em;
 }
